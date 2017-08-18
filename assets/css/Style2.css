@@ -29,7 +29,7 @@ h1{
 	background:#ffffff;
 	color:#777777;
 	border:1px solid #dddddd;
-	font:Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font:Arial, 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	margin-top: 200px;
 	padding:10px;
 	margin-left: 150px;
@@ -45,7 +45,8 @@ h1{
 	margin-top: 250px;
 	padding:20px;
 	right:250px;
-	text-align: center
+	text-align: center;
+	font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 
@@ -86,7 +87,7 @@ color:#777777;
 	background:#ffffff;
 	color:#777777;
 	border:1px solid #dddddd;
-	font:Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font:Arial, 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	margin-top: 200px;
 	padding:10px;
 	margin-left: 150px;
@@ -101,7 +102,7 @@ color:#777777;
 	background:#ffffff;
 	color:#777777;
 	border:1px solid #dddddd;
-	font:Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font:Arial, 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	margin-top: 200px;
 	padding:10px;
 	margin-left: 150px;
@@ -178,14 +179,105 @@ h3{
 }
 
 #travel{
-	width:15px;
-	height:15px;
+	width: 250px;
+	height:200px;
+	text-align: center;
+
 }
 #sports{
-	width: 15px;
-	height:15px;
+	width: 250px;
+	height:200px;
 }
-#headphones{
-	width: 15px;
-	height:15px;
+#headset{
+	width: 250px;
+	height:200px;
+}
+#ipad{
+	width: 250px;
+	height:200px;
+}
+#tv{
+	width: 250px;
+	height:200px;
+	margin-right: 320px;
+}
+.pics{
+	float:left;
+	padding:10px;
+	text-align: center;
+}
+#travel2{
+	height:50px;
+	width:250px;
+	background:#4aaaa5;
+	text-align: center;
+	padding-top: 20px;
+	position: absolute;
+	top:435px;
+	z-index: 2;
+	color:white;
+	font-size: 20px;
+
+}
+
+#sports2{
+	height:50px;
+	width:250px;
+	background:#4aaaa5;
+	text-align: center;
+	padding-top: 20px;
+	position: absolute;
+	top:435px;
+	z-index: 2;
+	color:white;
+	right:618px;
+	font-size: 20px;
+}
+#headset2{
+	height:50px;
+	width:250px;
+	background:#4aaaa5;
+	text-align: center;
+	padding-top: 20px;
+	position: absolute;
+	top:685px;
+	z-index: 2;
+	color:white;
+	font-size: 20px;
+}
+#ipad2{
+	height:50px;
+	width:250px;
+	background:#4aaaa5;
+	text-align: center;
+	padding-top: 20px;
+	position: absolute;
+	top:685px;
+	z-index: 2;
+	color:white;
+	font-size: 20px;
+	right:618px;
+
+}
+#TV2{
+	height:50px;
+	width:250px;
+	background:#4aaaa5;
+	text-align: center;
+	padding-top: 20px;
+	position: absolute;
+	top:920px;
+	z-index: 2;
+	color:white;
+	font-size: 20px;
+}
+#portfoliolink
+{
+	padding:5px;
+}
+#about{
+		padding:5px;
+}
+#contactlink{
+		padding:5px;
 }
