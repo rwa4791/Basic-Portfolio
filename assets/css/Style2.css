@@ -4,14 +4,28 @@
 	right:20%;
 	padding:10px, 50px;
 	font-family:"times new roman";
-	text-decoration: none;
 	margin-left: 5px;
-	margin-right: 5px; 
+	margin-right: 5px;
+	text-decoration: none;
+
 }
 
 h1{
 	background:#4aaaa5;
 	font: Georgia, Times, "Times New Roman", serif;
+	width:40%;
+	padding: 45px;
+	float:left;
+	margin-left:100px;
+	color:white;
+	text-align: center;
+	position:relative;
+	height:50px;
+	margin-top: 50px;
+}
+#robertangus{
+	background:#4aaaa5;
+	font-family: Georgia, Times, "Times New Roman", serif;
 	width:20%;
 	padding: 45px;
 	float:left;
@@ -19,13 +33,16 @@ h1{
 	color:white;
 	text-align: center;
 	position:relative;
-
+	height:30px;
+	margin-top: 30px;
+	font-size: 30px;
+	font-weight: bold;
 }
 
 #bio {
 	float:left;
 	width:650px;
-	height:310px;
+	height:250px;
 	background:#ffffff;
 	color:#777777;
 	border:1px solid #dddddd;
@@ -35,6 +52,9 @@ h1{
 	margin-left: 150px;
 }
 
+#story{
+	padding-left:15px;
+}
 #connect{
 	position:absolute;
 	top: -40px;
@@ -57,9 +77,31 @@ h2{
 	width:650px;
 	width:-50px;
 	margin-left:50px;
+	font-size: 50px;
 }
-
-
+#aboutme{
+	background:#ffffff;
+	color:#4aaaa5;
+	width:650px;
+	width:-50px;
+	margin-left:50px;
+	font-size: 30px;
+	font-weight:bold;
+}
+#contactme{
+	background:#ffffff;
+	color:#4aaaa5;
+	width:650px;
+	width:-50px;
+	margin-left:50px;
+	font-size: 30px;
+	font-weight:bold;
+}
+#connectwme{	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
 footer{
 	text-align: center;
 	background:#666666;
@@ -122,6 +164,21 @@ header{
 	left:0;
 	top:0;
 	position:absolute;
+}
+#firstpageheader{
+	background-color:#ffffff;
+	height:150px;
+	margin-top: 0;
+	border-bottom:1px solid #cccccc;
+	margin:0px;
+	right: 0;
+	left:0;
+	top:0;
+	position:absolute;
+}
+#secondpageheader{
+
+}
 }
 a{
 	color:grey;
@@ -213,11 +270,11 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:435px;
+	top:500px;
 	z-index: 2;
-	color:white;
+	color:#777777;
 	font-size: 20px;
-
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #sports2{
@@ -227,11 +284,12 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:435px;
+	top:500px;
 	z-index: 2;
-	color:white;
+	color:#777777;
 	right:618px;
 	font-size: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 #headset2{
 	height:50px;
@@ -240,10 +298,11 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:685px;
+	top:750px;
 	z-index: 2;
-	color:white;
+	color:#777777;
 	font-size: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 #ipad2{
 	height:50px;
@@ -252,11 +311,12 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:685px;
+	top:750px;
 	z-index: 2;
-	color:white;
+	color:#777777;
 	font-size: 20px;
 	right:618px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
 #TV2{
@@ -266,18 +326,40 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:920px;
+	top:1000px;
 	z-index: 2;
-	color:white;
+	color:#777777;
 	font-size: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 #portfoliolink
 {
 	padding:5px;
+	text-decoration: none;
+	color:#777777;
 }
 #about{
 		padding:5px;
+		text-decoration: none;
+		color:#777777;
 }
 #contactlink{
 		padding:5px;
+		text-decoration: none;
+		color:#777777;
+}
+#footerpageone{
+	text-align: center;
+	background:#666666;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left:0;
+	padding: 10px;
+	color:white;
+	border-top: 10px solid #4aaaa5; 
+}
+p{
+		color:#777777;
+
 }
