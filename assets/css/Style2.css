@@ -265,7 +265,7 @@ h3{
 #tv{
 	width: 250px;
 	height:200px;
-	margin-right: 320px;
+	margin-right: 260px;
 }
 .pics{
 	float:left;
@@ -279,7 +279,8 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:450px;
+	top:400px;
+	left:233px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
@@ -293,10 +294,10 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:450px;
+	top:400px;
 	z-index: 2;
 	color:#777777;
-	right:618px;
+	right:685px;
 	font-size: 20px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -307,11 +308,13 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:700px;
+	top:600px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		left:233px;
+
 }
 #ipad2{
 	height:50px;
@@ -320,11 +323,11 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:700px;
+	top:600px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
-	right:618px;
+	right:685px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
@@ -340,6 +343,9 @@ h3{
 	color:#777777;
 	font-size: 20px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+			left:233px;
+			top:800px;
+
 }
 #portfoliolink
 {
