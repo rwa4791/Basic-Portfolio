@@ -88,6 +88,15 @@ h2{
 	font-size: 30px;
 	font-weight:bold;
 }
+#portfoliohead{
+	background:#ffffff;
+	color:#4aaaa5;
+	width:650px;
+	width:-50px;
+	margin-left:50px;
+	font-size: 30px;
+	font-weight:bold;
+}
 #contactme{
 	background:#ffffff;
 	color:#4aaaa5;
@@ -270,7 +279,7 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:500px;
+	top:450px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
@@ -284,7 +293,7 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:500px;
+	top:450px;
 	z-index: 2;
 	color:#777777;
 	right:618px;
@@ -298,7 +307,7 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:750px;
+	top:700px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
@@ -311,7 +320,7 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:750px;
+	top:700px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
@@ -326,7 +335,7 @@ h3{
 	text-align: center;
 	padding-top: 20px;
 	position: absolute;
-	top:1000px;
+	top:950px;
 	z-index: 2;
 	color:#777777;
 	font-size: 20px;
@@ -359,7 +368,6 @@ h3{
 	color:white;
 	border-top: 10px solid #4aaaa5; 
 }
-p{
-		color:#777777;
-
+#story{
+padding: 10px;
 }
